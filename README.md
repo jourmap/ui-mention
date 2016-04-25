@@ -1,9 +1,9 @@
 # ui-mention
-Facebook-like @mentions for text inputs built around composability, this repo is a fork of ![angular-ui/ui-mention](https://github.com/angular-ui/ui-mention), the purpose is to be compatible with Angular Material, and become more general, not just for mentioning people
+Facebook-like @mentions for text inputs built around composability, this repo is a fork of [angular-ui/ui-mention](https://github.com/angular-ui/ui-mention), the purpose is to be compatible with Angular Material, and become more general, not just for mentioning people
 
 ## Contribute
 
-0. `npm install`
+0. `npm install git+https://git@github.com/jourmap/ui-mention.git`
 0. `npm install -g gulp bower`
 0. `bower install`
 0. `gulp [watch]`

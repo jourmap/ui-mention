@@ -72,7 +72,7 @@ angular.module('ui.mention')
     this.mentions.forEach( mention => {
       html = html.replace(this.encode(mention), this.highlight(mention));
     });
-    $element.next().html(html);
+    $element.prev().html(html);
     return html;
   };
 

@@ -1,5 +1,5 @@
 # ui-mention
-Facebook-like @mentions for text inputs built around composability
+Facebook-like @mentions for text inputs built around composability, this repo is a fork of ![angular-ui/ui-mention](https://github.com/angular-ui/ui-mention), the purpose is to be compatible with Angular Material, and become more general, not just for mentioning people
 
 ## Contribute
 

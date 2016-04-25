@@ -45,9 +45,9 @@ You have to build the HTML yourself:
 ```html
 <div class="ui-mention-container">
 
-  <textarea ng-model="data" ui-mention my-mention></textarea>
-
   <div class="ui-mention-highlight"></div>
+
+  <textarea ng-model="data" ui-mention my-mention></textarea>
 
   <ul class="dropdown" ng-if="$mention.choices.length">
     <li ng-repeat="choice in $mention.choices"
